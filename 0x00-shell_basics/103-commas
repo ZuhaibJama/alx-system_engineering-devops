@@ -1,2 +1,4 @@
 #!/bin/bash 
 ls -apmv
+[master 347b995]  Life is a series of commas, not periods
+ 1 file changed, 2 insertions(+), 2 deletions(-)
